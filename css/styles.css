@@ -90,6 +90,9 @@ ul {
 }
 
 .head-btn {
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: 700;
   font-family: inherit;
   font-size: 16px;
   line-height: 1.88;
@@ -158,11 +161,15 @@ ul {
   text-decoration: none;
 }
 .footer-address {
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: normal;
   font-size: 14px;
   line-height: 1.71;
   letter-spacing: 0.03em;
   color: var(--primary-white-color);
 }
+
 .footer-contacts {
   font-family: Roboto;
   font-style: normal;
@@ -176,6 +183,9 @@ ul {
 
 /* =========CLASS PORTFOLIO========== */
 .filter-button {
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: normal;
   font-size: 16px;
   line-height: 1.62;
   text-align: center;
@@ -184,6 +194,9 @@ ul {
   cursor: pointer;
 }
 .filter-button-1 {
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: normal;
   font-size: 16px;
   line-height: 1.62;
   text-align: center;
